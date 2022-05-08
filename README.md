@@ -7,3 +7,15 @@
   
   <img src="profile-img.png" align="right" width="25%"/>
 <h1> 21 years old • Front-end Web Developer <hr>• Building Useful Websites</h1>
+
+### Stacks :computer:
+
+<a href="https://www.w3schools.com/html/">
+  <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+</a>
