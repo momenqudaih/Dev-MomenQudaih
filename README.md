@@ -6,7 +6,7 @@
   </p>
   
   <img src="profile-img.png" align="right" width="25%"/>
-<h1> 21 years old • A passionate frontend developer from Palestine. <hr>• Building Useful Websites</h1>
+<h1>• A passionate frontend developer from Palestine. <hr>• Building Useful Websites</h1>
 
 ### • Stacks :computer:
 
