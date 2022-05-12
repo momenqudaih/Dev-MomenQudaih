@@ -6,7 +6,7 @@
   </p>
   
   <img src="profile-img.png" align="right" width="25%"/>
-<h2>• A passionate front-end developer <hr>• from Palestine, Gaza. <hr>• Building Useful Websites</h2>
+<h2>• A passionate front-end developer <hr>• from Palestine, Gaza. <br>• Building Useful Websites</h2>
 
 ### • Stacks :computer:
 
