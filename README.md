@@ -20,3 +20,6 @@
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
+<a>
+  <img height="32" src="https://www.tops-int.com/wp-content/uploads/2019/04/JAVA-e1639657708754.png"/>
+</a>
