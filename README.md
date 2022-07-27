@@ -21,4 +21,4 @@
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a>
 
-<img width="500px" src="https://github.com/Dev-MomenQudaih/protfolio/blob/main/images/%D9%85%D8%A4%D9%85%D9%86%20%D8%AD%D8%A7%D8%B2%D9%85%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%82%D8%AF%D9%8A%D8%AD-1.png"> 
+<img style="max-width:80%; margin-right:auto; margin-left: auto; dispaly: block;" src="https://github.com/Dev-MomenQudaih/protfolio/blob/main/images/%D9%85%D8%A4%D9%85%D9%86%20%D8%AD%D8%A7%D8%B2%D9%85%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D9%82%D8%AF%D9%8A%D8%AD-1.png"/> 
