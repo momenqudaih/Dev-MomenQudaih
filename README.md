@@ -13,7 +13,7 @@
 <h2>• from Palestine, Gaza. <br>• Building Useful Websites</h2>
 
 
-### • Stacks :computer:
+<!-- ### • Stacks :computer:
 
 <a href="https://www.w3schools.com/html/">
   <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
@@ -23,7 +23,7 @@
 </a>
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
-</a>
+</a> -->
 <div align="center"><a href="https://app.daily.dev/momen_qudaih"><img width="30%" src="https://github.com/Dev-MomenQudaih/Dev-MomenQudaih/blob/main/devcard.svg" width="400" alt="Momen Qudaih's Dev Card"/></a></div>
 <h1 align="center">Certifications</h1>
 <h2 align="center">I learned programmatic logic from the Java language, and there is my Certificate.❤️</h2>
