@@ -8,7 +8,7 @@
   <img src="profile-img.png" align="right" width="25%"/>
 
 
-<h1>• A passionate front-end web developer.</h1>
+<h1>• A passionate Full Stack Javascript Web Developer.</h1>
 
 <h2>• from Palestine, Gaza. <br>• Building Useful Websites</h2>
 
