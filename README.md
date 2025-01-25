@@ -1,4 +1,15 @@
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
+    <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
+  </div>
 
+  
+</div>
 <h1 align="center">Hi, I'm Momen Qudaih 👋</h1>
 <!-- <p align="center" >Follow Me </p>
 <p align="center" >
@@ -24,7 +35,9 @@
 <a href="https://www.javascript.com/">
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
 </a> -->
-<div align="center"><a href="https://app.daily.dev/momen_qudaih"><img width="30%" src="https://github.com/Dev-MomenQudaih/Dev-MomenQudaih/blob/main/devcard.svg" width="400" alt="Momen Qudaih's Dev Card"/></a></div>
+<div align="center"><a href="https://app.daily.dev/momen_qudaih"><img width="30%" src="https://github.com/Dev-MomenQudaih/Dev-MomenQudaih/blob/main/devcard.svg" width="400" alt="Momen Qudaih's Dev Card"/></a>
+
+</div>
 <!-- <h1 align="center">Certifications</h1>
 <h2 align="center">I learned programmatic logic from the Java language, and there is my Certificate.❤️</h2>
 <img width="100%" src="https://www.mediafire.com/convkey/1778/zm1acmjdmc3trhh9g.jpg"/>  -->
