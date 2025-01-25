@@ -7,37 +7,49 @@
     <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
     <img src="https://img.shields.io/badge/-Open_AI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
   </div>
-
-  
 </div>
+
 <h1 align="center">Hi, I'm Momen Qudaih 👋</h1>
-<!-- <p align="center" >Follow Me </p>
-<p align="center" >
-    <a href="https://www.instagram.com/prog_momen.qudaih"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p> -->
-  
-  <img src="profile-img.png" align="right" width="25%"/>
 
+<img src="profile-img.png" align="right" width="25%"/>
 
-<h1>• A passionate Front End Web Developer.</h1>
+### 👨‍💻 About Me
+- **A passionate Front End Web Developer** with a focus on building modern, responsive, and user-friendly websites.
+- **From Palestine, Gaza** 🌍.
+- **Tech Enthusiast** who loves exploring new tools and frameworks to solve real-world problems.
 
-<h2>• from Palestine, Gaza. <br>• Building Useful Websites</h2>
+---
 
+### 🛠️ Tech Stack
+Here are some of the technologies and tools I work with:
 
-<!-- ### • Stacks :computer:
+- **Frontend**: React, Next.js, Tailwind CSS, ShadCN UI
+- **Programming Languages**: TypeScript, JavaScript
+- **APIs & Tools**: OpenAI, RESTful APIs
+- **Version Control**: Git, GitHub
 
-<a href="https://www.w3schools.com/html/">
-  <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
-</a>
-<a href="https://www.w3schools.com/css/">
-  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
-</a>
-<a href="https://www.javascript.com/">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
-</a> -->
-<div align="center"><a href="https://app.daily.dev/momen_qudaih"><img width="30%" src="https://github.com/Dev-MomenQudaih/Dev-MomenQudaih/blob/main/devcard.svg" width="400" alt="Momen Qudaih's Dev Card"/></a>
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momenqudaih&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenqudaih&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-<!-- <h1 align="center">Certifications</h1>
-<h2 align="center">I learned programmatic logic from the Java language, and there is my Certificate.❤️</h2>
-<img width="100%" src="https://www.mediafire.com/convkey/1778/zm1acmjdmc3trhh9g.jpg"/>  -->
+
+---
+
+### 📫 Let's Connect
+Feel free to reach out to me for collaborations, questions, or just to say hi!
+
+- **Instagram**: [@prog_momen.qudaih](https://www.instagram.com/prog_momen.qudaih)
+- **Email**: qudmomen@gmail.com
+
+<div align="center">
+  <a href="https://app.daily.dev/momen_qudaih">
+    <img width="30%" src="https://github.com/Dev-MomenQudaih/Dev-MomenQudaih/blob/main/devcard.svg" alt="Momen Qudaih's Dev Card"/>
+  </a>
+</div>
+
+---
+
+<p align="center">Made with ❤️ by Momen Qudaih</p>
